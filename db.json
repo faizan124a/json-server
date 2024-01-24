@@ -12,7 +12,7 @@
     "featureFlags": 
     {
         "langSelector": true,
-        "staticPrompts": true
+        "staticPrompts": false
     }
     
   }
