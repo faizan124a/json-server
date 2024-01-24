@@ -1,5 +1,5 @@
 {
-    "appConfig": [
+    "appConfig": 
         {
             "dropdown_selector": ["Language"],
             "language_options": [{ "code": "en", "name": "English" }, { "code": "de", "name": "German" }],
@@ -9,5 +9,5 @@
             "selected_tools": ["send_email"],
             "notifications": [{"delay": 5000}, {"action": "scroll"}] 
         }
-    ]
+    
   }
