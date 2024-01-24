@@ -2,7 +2,7 @@
     "appConfig": 
         {
             "dropdown_selector": ["Language"],
-            "language_options": [{ "code": "en", "name": "English" }, { "code": "de", "name": "German" }],
+            "language_options": [{ "code": "en", "name": "English" }, { "code": "sr", "name": "Serbian" }],
             "prompt_key": "prod_suggest",
             "role": "user",
             "do_rag": false,
