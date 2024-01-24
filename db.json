@@ -11,8 +11,8 @@
         },
     "featureFlags": 
     {
-        "langSelector": true,
-        "staticPrompts": false
+        "langSelector": false,
+        "staticPrompts": true
     }
     
   }
