@@ -1,0 +1,13 @@
+{
+    "appConfig": [
+        {
+            "dropdown_selector": ["Language"],
+            "language_options": [{ "code": "en", "name": "English" }],
+            "prompt_key": "prod_suggest",
+            "role": "user",
+            "do_rag": false,
+            "selected_tools": ["send_email"],
+            "notifications": [{"delay": 5000}, {"action": "scroll"}] 
+        }
+    ]
+  }
