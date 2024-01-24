@@ -8,6 +8,11 @@
             "do_rag": false,
             "selected_tools": ["send_email"],
             "notifications": [{"delay": 5000}, {"action": "scroll"}] 
-        }
+        },
+    "featureFlags": 
+    {
+        "langSelector": true,
+        "staticPrompts": true
+    }
     
   }
